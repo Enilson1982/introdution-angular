@@ -3,7 +3,16 @@
 Essa realização foi possível por caso do Bootcamp DIO (Didital Innovation One)
 e a Philips. Orientado pelo Especialista Wesllhey Holanda.
 
-Este programa funcionam juntamente com a pasta development que terá seu repositório exclusivo aqui no Github
+Este programa funcionam juntamente com a pasta development > servers > course-manager-serve. Criada essas páginas no pc
+segue para instalação de outros componentes, usabdo o comando no Git bash: 
+
+npm install 
+
+depois o comando:
+
+node serve.js
+
+Dessa forma será iniciado o programa na maquina local.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
