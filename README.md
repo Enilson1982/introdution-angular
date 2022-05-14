@@ -2,7 +2,8 @@
 
 Essa realização foi possível por caso do Bootcamp DIO (Didital Innovation One)
 e a Philips. Orientado pelo Especialista Wesllhey Holanda.
-Estes arquivos funcionam juntamente com a pasta development que terá seu repositório exclusivo aqui no Github
+
+Este programa funcionam juntamente com a pasta development que terá seu repositório exclusivo aqui no Github
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
