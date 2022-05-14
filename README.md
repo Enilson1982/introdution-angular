@@ -1,4 +1,4 @@
-# CourseManger
+# Course Manager
 
 Essa realização foi possível por caso do Bootcamp DIO (Didital Innovation One)
 e a Philips. Orientado pelo Especialista Wesllhey Holanda.
