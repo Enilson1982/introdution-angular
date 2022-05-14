@@ -1,7 +1,7 @@
-# CourseManager
+# CourseManger
 
-Essa realização foi possível por caso do Bootcamp DIO (Didital Innovation One) e a Philips
-Através da orientação do Especialista Wesllhey Holanda.
+Essa realização foi possível por caso do Bootcamp DIO (Didital Innovation One)
+e a Philips. Orientado pelo Especialista Wesllhey Holanda.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
